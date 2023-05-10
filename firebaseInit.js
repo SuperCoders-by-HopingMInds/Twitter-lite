@@ -7,7 +7,8 @@ export const firebaseConfig = {
   projectId: "twitter-clone-cf9bb",
   storageBucket: "twitter-clone-cf9bb.appspot.com",
   messagingSenderId: "940326519827",
-  appId: "1:940326519827:web:828d35ffa836c563fc2be6"
+  appId: "1:940326519827:web:828d35ffa836c563fc2be6",
+  databaseURL: "https://twitter-clone-cf9bb-default-rtdb.firebaseio.com/",
 };
 
 
